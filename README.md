@@ -1,5 +1,5 @@
 # IIM-4AMTD
-Manon Boucheteil - Hanako Morizeau
+Groupe : Manon Boucheteil - Hanako Morizeau
 
 
 <h2>Vous trouverez dans ce dossier : </h2>
